@@ -1,0 +1,22 @@
+{
+  "name": "SellServicesCore",
+  "version": "0.1.0",
+  "summary": "A short description of SellServicesCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Enzo Corsiero/SellServicesCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Enzo Corsiero": "enzo.corsiero@italiaonline.it"
+  },
+  "source": {
+    "git": "https://github.com/Enzo Corsiero/SellServicesCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SellServicesCore/Classes/**/*"
+}

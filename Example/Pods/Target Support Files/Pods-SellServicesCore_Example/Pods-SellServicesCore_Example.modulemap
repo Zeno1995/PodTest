@@ -1,0 +1,6 @@
+framework module Pods_SellServicesCore_Example {
+  umbrella header "Pods-SellServicesCore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

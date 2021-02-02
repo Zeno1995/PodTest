@@ -1,0 +1,6 @@
+framework module SellServicesCore {
+  umbrella header "SellServicesCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
